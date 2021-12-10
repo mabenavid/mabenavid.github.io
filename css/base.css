@@ -1,0 +1,386 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html {
+  font-family: Montserrat !important;
+  font-size: 16px;
+}
+
+body {
+  font-family: Montserrat !important;
+}
+
+button {
+  border: none;
+  height: 35px;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+a:hover {
+  color: #fff;
+}
+
+p {
+  color: #696b6a;
+}
+
+h2 {
+  font-size: 4rem;
+  font-family: Dancing Script !important;
+  font-weight: bolder;
+}
+
+.btnG {
+  background-color: #afc3d3;
+  border-radius: 16px;
+}
+
+.btnG:hover {
+  background-color: #798996;
+  color: #fff;
+}
+
+.fondoVino {
+  background-color: #994b5c;
+}
+
+.fondoVino a {
+  font-family: Montserrat !important;
+}
+
+.fondoVino .casados {
+  color: #fff;
+  font-family: Dancing Script !important;
+}
+
+.fondoVino .casados h3 {
+  font-size: 2.5rem !important;
+  padding-left: 10%;
+}
+
+.navbar-light .navbar-brand:hover {
+  color: #552933 !important;
+}
+
+.navbar-light .navbar-toggler {
+  border-color: #fff;
+  color: #fff;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #fff;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+  color: #fff;
+  font-weight: bold;
+}
+
+.navbar-light .navbar-nav .arriba:hover {
+  color: #552933;
+}
+
+.navbar-light .navbar-toggler {
+  color: #fff;
+}
+
+.border-primary {
+  border-color: #994b5c !important;
+}
+
+.sct-ready p span {
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+.sct-ready h3 {
+  color: #994b5c;
+  font-size: 1.2rem;
+  margin-bottom: 25px;
+}
+
+.sct-ready h2 {
+  color: #994b5c;
+  font-size: 4rem;
+  font-family: Dancing Script !important;
+  line-height: 3.5rem;
+}
+
+.sct-ready .txt-ready {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.sct-map {
+  background-color: #fff;
+  padding-top: 50px;
+}
+
+.sct-map h2 {
+  color: #696b6a;
+  font-size: 4rem;
+  font-family: Dancing Script !important;
+  padding-bottom: 15px;
+}
+
+.sct-regalo {
+  background-color: #d6e5db;
+}
+
+.sct-regalo .txt-regalo {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.sct-regalo .txt-regalo span {
+  font-weight: bold;
+  color: #696b6a;
+}
+
+.sct-regalo .txt-regalo h2 {
+  color: #994b5c;
+}
+
+.sct-regalo .txt-regalo h2 .size-regalo {
+  font-size: 2.5rem;
+}
+
+.sct-regalo .txt-regalo p {
+  color: #696b6a;
+}
+
+.sct-carrusel-help {
+  background-color: #d6e5db;
+  padding: 50px 0;
+}
+
+.sct-carrusel-help h2 {
+  margin-bottom: 0;
+}
+
+.sct-help {
+  margin-top: 20px;
+}
+
+.sct-help .txt1 {
+  color: #073256;
+  font-size: 1rem;
+  font-weight: bolder;
+  line-height: 30px;
+}
+
+.sct-help .txt2 {
+  color: #212529;
+  font-size: 1rem;
+  width: 83%;
+  margin: 0 auto;
+}
+
+.carousel-control-next {
+  top: 150px !important;
+  left: 88% !important;
+}
+
+.carousel-control-next i {
+  font-size: 1.25rem;
+}
+
+.carousel-control-prev {
+  top: 150px !important;
+  left: -2% !important;
+}
+
+.carousel-control-prev i {
+  font-size: 1.25rem;
+}
+
+.sct-help2 {
+  background-color: #994b5c;
+  padding: 70px 20px;
+}
+
+.sct-help2 h3 {
+  font-size: 4rem;
+  color: #fff;
+  font-family: Dancing Script !important;
+}
+
+.sct-help2 .sb {
+  border-right: none !important;
+}
+
+.sct-help2 .card-brand {
+  padding: 1rem 1.9rem;
+  border-bottom: 1px solid #d0d4da;
+}
+
+.sct-help2 .card-brand .icon {
+  color: #fff;
+  font-size: 3rem;
+}
+
+.sct-help2 .card-brand .txt1 {
+  color: #fff;
+  font-size: 1.75rem;
+  line-height: 30px;
+}
+
+.sct-help2 .card-brand .txt2 {
+  color: #fff;
+  font-size: 1rem;
+}
+
+.sct-help2 .card-brand .txt2 span {
+  font-size: 1.1rem;
+}
+
+.sct-help2 .card-brand2 {
+  padding: 1rem 1.9rem;
+}
+
+.sct-help2 .card-brand2 .icon {
+  color: #fff;
+  font-size: 3rem;
+}
+
+.sct-help2 .card-brand2 .txt1 {
+  color: #fff;
+  font-size: 1.75rem;
+  line-height: 30px;
+}
+
+.sct-help2 .card-brand2 .txt2 {
+  color: #fff;
+  font-size: 1rem;
+}
+
+img {
+  max-width: 100%;
+}
+
+.gallery {
+  background-color: #d6e5db;
+  padding: 80px 0;
+}
+
+.gallery img {
+  background-color: #ffffff;
+  padding: 15px;
+  width: 100%;
+  -webkit-box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+          box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+}
+
+#gallery-modal .modal-img {
+  width: 100%;
+}
+
+footer {
+  background-color: #696b6a;
+}
+
+footer h2 {
+  font-size: 1.75rem;
+  margin-bottom: 30px;
+  color: #fff;
+  font-weight: normal;
+}
+
+footer h2 span {
+  font-weight: bold;
+  color: #d6e5db;
+}
+
+footer h3 {
+  color: #d6e5db;
+  font-family: Dancing Script;
+  font-size: 4rem;
+  margin-bottom: 50px;
+}
+
+footer h3 .size-confirmar {
+  font-size: 2.5rem;
+}
+
+footer ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+footer ul li {
+  display: list-item;
+}
+
+footer ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+footer .hong {
+  margin-bottom: 20px;
+}
+
+footer .hong h3 {
+  font-size: 1.3rem;
+  color: #073256;
+  font-weight: bolder;
+}
+
+footer .hong p {
+  font-size: 1rem;
+  color: #212529;
+  margin-bottom: 0;
+}
+
+footer .hong a {
+  color: #3a567d;
+  font-size: 1rem;
+}
+
+footer .copyright {
+  margin-top: 35px;
+}
+
+footer .copyright p {
+  font-size: 0.8rem;
+  color: #fff;
+}
+
+@media only screen and (min-width: 767px) {
+  .sct-help2 .card-brand {
+    border-right: 1px solid #d0d4da;
+    border-bottom: none;
+  }
+  .sct-help2 .card-brand .txt1 {
+    font-size: 1.3rem;
+  }
+  .raya {
+    border-left: 1px solid #073256;
+    margin-left: 1em;
+    padding-left: 1em;
+  }
+  .sct-banner {
+    margin-top: 60px;
+    margin-bottom: 60px;
+  }
+  .sct-banner h2 {
+    font-size: 3rem;
+  }
+  .sct-banner .img-container img {
+    max-height: 359px;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .sct-help2 .card-brand .txt1 {
+    font-size: 1.5rem;
+  }
+}
+/*# sourceMappingURL=base.css.map */
